@@ -1,4 +1,4 @@
-package cc.dreamcode.template.config;
+package cc.dreamcode.menutest.config;
 
 import cc.dreamcode.platform.bukkit.component.configuration.Configuration;
 import cc.dreamcode.platform.persistence.StorageConfig;

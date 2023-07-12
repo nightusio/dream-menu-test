@@ -1,8 +1,8 @@
-main: "cc.dreamcode.template.BukkitTemplatePlugin"
+main: "cc.dreamcode.menutest.MenuTestPlugin"
 version: "1.0-InDEV"
-name: "Dream-Template"
-description: "Dream-Template written by dreamcode.cc"
+name: "Dream-Menu-Test"
+description: "Dream-Menu-Test written by Nightusio"
 website: "https://dreamcode.cc"
-author: "author"
-prefix: "Dream-Template-Bukkit"
+author: "Nightusio"
+prefix: "Dream-Menu-Test"
 api-version: 1.13

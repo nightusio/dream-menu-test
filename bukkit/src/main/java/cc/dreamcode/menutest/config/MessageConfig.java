@@ -1,4 +1,4 @@
-package cc.dreamcode.template.config;
+package cc.dreamcode.menutest.config;
 
 import cc.dreamcode.notice.minecraft.MinecraftNoticeType;
 import cc.dreamcode.notice.minecraft.bukkit.BukkitNotice;
